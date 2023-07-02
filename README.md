@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @ston3dg3
-- 👀 I’m interested in ... anything really
-- 🌱 I’m currently learning ... anything really
-- 💞️ I’m looking to collaborate on ... anything really
-- 📫 How to reach me ... anyhow really
+- 👋 Hi, my name is Franek (@ston3dg3)
+- 👀 I’m interested in java, python, linux systems, scripting, hardware programming and software development
+- 📫 How to reach me - email: stonedgefx@gmail.com
 
 <!---
 ston3dg3/ston3dg3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
