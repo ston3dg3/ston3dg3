@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Franek (@ston3dg3)
+- 👋 Hi, my name is Franek (Franciszek Hordejuk) (@ston3dg3)
 - 👀 I’m interested in java, python, linux systems, scripting, hardware programming and software development
 - 📫 How to reach me - email: stonedgefx@gmail.com
 
